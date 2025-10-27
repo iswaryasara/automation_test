@@ -117,7 +117,9 @@ public static void testmethod() {
 public static void test3() {
 		System.out.println("testone");	
 		}
-		
+public static void test4() {
+	System.out.println("testone");	
+}		
 }
 	
 

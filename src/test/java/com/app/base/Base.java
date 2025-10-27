@@ -119,6 +119,9 @@ public static void test3() {
 		}
 public static void test4() {
 	System.out.println("testone");	
+}
+	public static void test5() {
+	System.out.println("testtwo");	
 }		
 }
 	

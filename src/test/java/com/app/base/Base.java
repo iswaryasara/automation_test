@@ -14,7 +14,9 @@ public class Base {
 	
 	//git changes
 	//Git COnflict
-
+public static void testmethod() {
+	System.out.println("chennai");
+}
 		public static WebDriver driver = null;
 		public static Properties prop = new Properties();
 		public static Select s;
@@ -112,6 +114,10 @@ public class Base {
 		public static void test2() {
 			
 		}
+public static void test3() {
+		System.out.println("testone");	
+		}
+		
 }
 	
 

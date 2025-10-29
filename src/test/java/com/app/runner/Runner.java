@@ -7,7 +7,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/java/com/app/feature",
 glue = "com.app.stepdefinition",
-tags = "@bopcat"
+tags = "@book"
 //plugin =  {
 //        "pretty",
 //        "html:target/cucumber-reports/html-report.html", 
